@@ -9,31 +9,6 @@ Welcome to the WordPress Plugin Suite repository! This project encompasses the d
   - Customizable widgets for embedding metal prices.
   - Historical price charts and data analysis tools.
 
-- **Plugin 2: Custom Post Type Manager**
-  - Create and manage custom post types effortlessly.
-  - Add custom fields and taxonomies.
-  - User-friendly interface for post type creation.
-
-- **Plugin 3: SEO Optimizer**
-  - Enhance your website's SEO with automated meta tags and keyword suggestions.
-  - Real-time SEO analysis and recommendations.
-  - Integration with popular SEO tools.
-
-- **Plugin 4: Security Enhancer**
-  - Protect your site with advanced security features.
-  - Malware scanning and removal.
-  - Two-factor authentication for admin users.
-
-- **Plugin 5: Performance Booster**
-  - Improve site speed with caching and optimization tools.
-  - Minify CSS and JavaScript files.
-  - Image compression and lazy loading.
-
-- **Plugin 6: User Management Suite**
-  - Advanced user role and permission management.
-  - Customizable registration and login forms.
-  - User activity tracking and reporting.
-
 ## Installation
 
 1. Clone the repository:
