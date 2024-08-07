@@ -9,6 +9,11 @@ Welcome to the WordPress Plugin Suite repository! This project encompasses the d
   - Customizable widgets for embedding metal prices.
   - Historical price charts and data analysis tools.
 
+- **Plugin 2: Job Adverts**
+  - Create and manage job listings on your WordPress site.
+  - Customizable job application forms.
+  - Job categories, tags, and filters for easy navigation.
+
 ## Installation
 
 1. Clone the repository:
