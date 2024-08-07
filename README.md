@@ -38,12 +38,12 @@ Welcome to the WordPress Plugin Suite repository! This project encompasses the d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wordpress-plugins.git
+   git clone https://github.com/sabiduria/Wordpress-plugins.git
    ```
 
 2. Navigate to the desired plugin directory:
    ```bash
-   cd wordpress-plugin-suite/plugin-name
+   cd Wordpress-plugins/plugin-name
    ```
 
 3. Install the plugin:
